@@ -1,0 +1,2 @@
+--populate database
+--Insert into: Department, role, and employee 

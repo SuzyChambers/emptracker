@@ -1,0 +1,2 @@
+-- drop if exist, then create, then USE
+-- create tables for department, role, and employee
